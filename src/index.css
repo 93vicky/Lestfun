@@ -651,4 +651,13 @@ position: unset;
   width: 96%;
   margin: auto;
 }
+#single:before, .single_wraper {
+  left: 0;
+  position: absolute;
+  right: 0;
+  z-index: -1;
+}
+.thumb_info {
+  margin-top: 1.5rem;
+}
 }
