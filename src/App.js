@@ -4,6 +4,7 @@ import Movies from './components/Movies';
 import SingleMoviesdetail from './components/SingleMoviesdetail';
 import Gallery from './components/Gallery';
 import Footer from './components/Footer';
+import Error from './components/Error';
 import { Routes, Route } from 'react-router-dom';
 
 const  App = () => {
@@ -16,6 +17,7 @@ const  App = () => {
         <Route path='/movies' element={<Movies/>}/>
         <Route path='/movies/:id' element={<SingleMoviesdetail/>}/>
         <Route path='/gallery' element={<Gallery/>}/>
+        <Route path='*' element={<Error/>}/>
        </Routes>
        <Footer/>
       </>
