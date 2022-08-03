@@ -553,6 +553,10 @@ position: unset;
   background-color: #222;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9228ab96206eff6a89173d939e706c659574ba12
 .page_404 {
   padding: 0px 0;
   background: #fff;
@@ -585,6 +589,10 @@ position: unset;
     margin: 20px 0;
     display: inline-block;}
 	.contant_box_404{ margin-top:-50px;}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9228ab96206eff6a89173d939e706c659574ba12
 @media (max-width:768px) {
   .tglBar{
     display: block;
@@ -658,5 +666,6 @@ position: unset;
 .thumb_info {
   margin-top: 1.5rem;
   background-color: red;
+  padding: 0;
 }
 }
