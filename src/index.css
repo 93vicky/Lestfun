@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Rajdhani', sans-serif;
-  background-color: #000;
+  background-color: #fff;
 }
 
 code {
@@ -80,7 +80,7 @@ code {
   text-decoration: none;
 }
 .logo a h1{
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   color: #fff;
   font-weight: 700;
   text-transform: uppercase;
@@ -553,10 +553,7 @@ position: unset;
   background-color: #222;
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9228ab96206eff6a89173d939e706c659574ba12
 .page_404 {
   padding: 0px 0;
   background: #fff;
@@ -589,10 +586,7 @@ position: unset;
     margin: 20px 0;
     display: inline-block;}
 	.contant_box_404{ margin-top:-50px;}
-<<<<<<< HEAD
-=======
 
->>>>>>> 9228ab96206eff6a89173d939e706c659574ba12
 @media (max-width:768px) {
   .tglBar{
     display: block;
